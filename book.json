@@ -1,8 +1,8 @@
 {
   "structure": {
-    "readme": "StudentDesc.md",
+    "readme": "BOOKREADME.md",
     "summary": "SUMMARY.md"
   },
-  "title": "Site Title",
+  "title": "Hyland PEEKE 2024",
   "plugins": ["toggle-chapters"]
 }
