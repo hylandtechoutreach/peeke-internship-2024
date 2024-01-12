@@ -69,6 +69,6 @@ This is all subject to change, but the commitment will look something like this 
 The time commitment in July will depend on the number of co-leads. If there is only one co-lead available, the time required will be higher.
 
 ## Conclusion
-The work required is substantial, but the impact is substantial as well. These students will gain real-world software development experience in a safe and welcoming environment, while working on an interesting, valuable, appropriately-scoped project - and YOU have a chance to make that happen!
+The work required is substantial, but the impact is substantial as well. These students will gain real-world software development experience in a safe and welcoming environment, while working on an interesting, valuable, appropriately-scoped project - and YOU have a chance to help them.
 
-If we are not able to find technical co-leads for this summer, we will be unable to offer the internship. Please consider helping us 
+If we are not able to find technical co-leads for this summer, we will be unable to offer the internship. Please consider helping us make this happen!
