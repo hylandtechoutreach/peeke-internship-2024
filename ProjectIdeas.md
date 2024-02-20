@@ -40,3 +40,12 @@ This would likely be another CRUD app type of thing, so MERN would be a good sta
 
 ### Feasibility
 This would also require work from the authentication side of things. May be worth pursuing, but may not have as big of an impact, even if successful. A bit lower of stakes, but high ceiling.
+
+## Other Existing Open Source Projects
+Find some cool open source projects to which the interns could contribute. This could be more "real" than one of our home-grown projects, but because of that, the stakes would be higher and the process may be more difficult.
+
+### Stack
+Potentially any stack.
+
+### Feasibility
+Finding a good project or set of projects would be the tough part, but fitting into the larger open source ecosystem could be hugely beneficial
